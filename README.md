@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, I'm [Ramesh Bhandari!](https://www.linkedin.com/in/rameshkumarbhandari/) 👋
+
+Software Developer from Nepal.
+
+- 🔭 Currently working as an Software Developer.
+- 🌱 Currently learning Typescript, JavaScripts, Spring Boot.
+- 💬 Ask me about anything from [Here !](https://github.com/RameshBhandari1/RameshBhandari1/issues)
+- 📫 How to reach me: bhandari.rameshk@gmail.com
 
 <!--
 **RameshBhandari1/RameshBhandari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
