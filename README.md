@@ -2,7 +2,7 @@
 
 Software Developer from Nepal.
 
-- 🔭 Currently working as an Software Developer.
+- 🔭 Currently working as a Software Developer.
 - 🌱 Currently learning Typescript, JavaScripts, Spring Boot.
 - 💬 Ask me about anything from [Here !](https://github.com/RameshBhandari1/RameshBhandari1/issues)
 - 📫 How to reach me: bhandari.rameshk@gmail.com
